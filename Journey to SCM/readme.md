@@ -10,4 +10,5 @@
 
 1. [상관관계와 인과관계](https://github.com/yonghanjung/causalblog-Kor/blob/master/Journey%20to%20SCM/1.%20%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84%EC%99%80%20%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84.md)
 2. [인과관계 확률변수 $Y_x$](https://github.com/yonghanjung/causalblog-Kor/blob/master/Journey%20to%20SCM/2.%20%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84.md)
- 
+3. [무작위 실험](https://github.com/yonghanjung/causalblog-Kor/blob/master/Journey%20to%20SCM/3.%20%EB%AC%B4%EC%9E%91%EC%9C%84%EC%8B%A4%ED%97%98%20(RCT).md)
+
